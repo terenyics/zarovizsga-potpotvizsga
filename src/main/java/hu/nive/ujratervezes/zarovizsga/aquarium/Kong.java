@@ -9,6 +9,6 @@ public class Kong extends Fish {
     @Override
     public void feed() {
         super.feed();
-        this.weight += 2;
+        this.weight+= 2;
     }
 }
